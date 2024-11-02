@@ -110,3 +110,39 @@ ul li span {
 ul li span:hover {
     background: #edeef0;
 }
+
+@media(max-width:1024) {
+    .container {
+        width: 100%;
+        min-height: 100vh;
+    }
+}
+
+@media(max-width:1280) {
+    .container {
+        width: 100%;
+        min-height: 100vh;
+    }
+}
+
+@media(max-width:500) {
+    .container {
+        width: 100%;
+        min-height: 100vh;
+    }
+}
+
+@media(max-width:360) {
+    .container {
+        width: 100%;
+        min-height: 100vh;
+    }
+}
+
+input {
+    padding: 5px;
+}
+
+button {
+    padding: 10px 30px;
+}
